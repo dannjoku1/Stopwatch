@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/dan/Desktop/Stopwatch/node_modules/react-native/Libraries/Image/RCTImageViewManager.m \
+  /Users/dan/Desktop/Stopwatch/node_modules/react-native/Libraries/Image/RCTImageViewManager.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/dan/Desktop/Stopwatch/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/dan/Desktop/Stopwatch/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/dan/Desktop/Stopwatch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/dan/Desktop/Stopwatch/node_modules/react-native/Libraries/Image/RCTImageView.h
